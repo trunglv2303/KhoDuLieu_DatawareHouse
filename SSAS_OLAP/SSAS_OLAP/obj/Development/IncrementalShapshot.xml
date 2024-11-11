@@ -1,0 +1,96 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SSAS_OLAP</Database>
+    <Server>DESKTOP-UV21JUI\MSSQLSERVER04</Server>
+    <ConnectionString>Data Source=DESKTOP-UV21JUI\MSSQLSERVER04;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>yIm2Uti/afg2LUgXpgjAHcdMggw=11/10/2024 3:06:53 PM11/10/2024 2:35:51 PM</TimeStamp>
+        <ID>
+          <String>DATA WAREHOUSECK</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>32FCgIJ0cFPemDh+Wh/LcOeVhOc=11/10/2024 1:58:05 PM11/10/2024 1:58:05 PM</TimeStamp>
+        <ID>
+          <String>DATA WAREHOUSECK</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>5xd0tfaxU3dOVHC/dmXU8FaHR8A=11/10/2024 1:59:53 PM11/10/2024 1:59:53 PM</TimeStamp>
+        <ID>
+          <String>DIM CUSTOMER</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>2SkBDs74aCJmzwcdfmzJLOwqsvY=11/10/2024 2:00:33 PM11/10/2024 2:00:33 PM</TimeStamp>
+        <ID>
+          <String>DIM MARKET</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ppDFdVJSYmIMmbVr2Y8ZRyTBug0=11/10/2024 2:00:56 PM11/10/2024 2:00:56 PM</TimeStamp>
+        <ID>
+          <String>DIM COUNTRY</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Ojl5Ve0YHMkbdY2YlO4ltCzI8Tw=11/10/2024 2:01:47 PM11/10/2024 2:01:47 PM</TimeStamp>
+        <ID>
+          <String>DIM PRODUCT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>CD0g5WXchSXtfYxc153MX95cPYg=11/10/2024 2:02:00 PM11/10/2024 2:02:00 PM</TimeStamp>
+        <ID>
+          <String>DIM CITY</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>oCd0NuvfdxS2Y6ZqLRpUSxGAwOo=11/10/2024 2:02:11 PM11/10/2024 2:02:11 PM</TimeStamp>
+        <ID>
+          <String>DIM STATE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>nEFqLEuMjzAW6LDSjXfm+PDllL8=11/10/2024 3:23:08 PM11/10/2024 2:03:14 PMxcSfHDDOnkZcvMgo+MU7xIS6h5Q=11/10/2024 3:23:08 PM11/10/2024 2:03:14 PM</TimeStamp>
+        <ID>
+          <String>DATA WAREHOUSECK</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>7viiZ1Acxu1vulQLvX+vqbU4sYY=11/10/2024 1:56:22 PM11/10/2024 1:56:22 PM</TimeStamp>
+      <ID>
+        <String>SSAS_OLAP</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-11-10T08:23:17.52Z</LastDeployed>
+</DeploymentSnapshot>

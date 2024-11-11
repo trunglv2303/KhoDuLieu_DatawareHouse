@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DATA WAREHOUSECK.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DATA WAREHOUSECK.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\SSAS_OLAP.database||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\SSAS_OLAP.database||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DATA WAREHOUSECK.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DATA WAREHOUSECK.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM STATE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DIM STATE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM CITY.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DIM CITY.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM PRODUCT.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DIM PRODUCT.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM COUNTRY.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DIM COUNTRY.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM MARKET.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DIM MARKET.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM CUSTOMER.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DE15200F-77CD-475C-A2A7-AAAA0D26E7C9}|SSAS_OLAP\\SSAS_OLAP.dwproj|solutionrelative:SSAS_OLAP\\DIM CUSTOMER.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DATA WAREHOUSECK.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DATA WAREHOUSECK.cube",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DATA WAREHOUSECK.cube",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DATA WAREHOUSECK.cube [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DATA WAREHOUSECK.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T08:23:08.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SSAS_OLAP.database [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\SSAS_OLAP.database",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\SSAS_OLAP.database",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\SSAS_OLAP.database [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\SSAS_OLAP.database [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T07:03:35.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DIM STATE.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM STATE.dim",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DIM STATE.dim",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM STATE.dim [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DIM STATE.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T07:02:11.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DATA WAREHOUSECK.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DATA WAREHOUSECK.dsv",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DATA WAREHOUSECK.dsv",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DATA WAREHOUSECK.dsv [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DATA WAREHOUSECK.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T06:58:08.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DIM CITY.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM CITY.dim",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DIM CITY.dim",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM CITY.dim [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DIM CITY.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T07:02:00.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DIM PRODUCT.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM PRODUCT.dim",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DIM PRODUCT.dim",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM PRODUCT.dim [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DIM PRODUCT.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T07:01:47.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DIM COUNTRY.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM COUNTRY.dim",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DIM COUNTRY.dim",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM COUNTRY.dim [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DIM COUNTRY.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T07:00:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DIM MARKET.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM MARKET.dim",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DIM MARKET.dim",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM MARKET.dim [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DIM MARKET.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T07:00:34.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DIM CUSTOMER.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM CUSTOMER.dim",
+              "RelativeDocumentMoniker": "SSAS_OLAP\\DIM CUSTOMER.dim",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\SSAS_OLAP\\SSAS_OLAP\\DIM CUSTOMER.dim [Design]",
+              "RelativeToolTip": "SSAS_OLAP\\DIM CUSTOMER.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T06:59:53.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
